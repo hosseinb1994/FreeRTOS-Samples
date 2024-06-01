@@ -10,12 +10,12 @@ To run the examples, you can use STM32CubeIDE.
 To use the samples, simply clone the repository using git:
 git clone https://github.com/hosseinb1994/FreeRTOS-Samples.git
 
-For using each sample follow below steps:
-Step1: Open project using STM32CubeIDE.
-Step2: Build the sample.
-Step3: Connect NUCLEO board to your PC.
-Step4: Click on Debug button.
-Step5: Monitor Tasks utilizing Debug feature.
+## For using each sample follow below steps:
+* Step1: Open project using STM32CubeIDE.
+* Step2: Build the sample.
+* Step3: Connect NUCLEO board to your PC.
+* Step4: Click on Debug button.
+* Step5: Monitor Tasks utilizing Debug feature.
 -----------------------------------------------------
 Example lists:
     1- Creating Task
