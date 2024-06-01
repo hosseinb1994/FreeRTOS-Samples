@@ -17,7 +17,7 @@ git clone https://github.com/hosseinb1994/FreeRTOS-Samples.git
 * Step4: Click on Debug button.
 * Step5: Monitor Tasks utilizing Debug feature.
 -----------------------------------------------------
-Example lists:
-    1- Creating Task
+## Example lists:
+*    1- Creating Task
 
 
