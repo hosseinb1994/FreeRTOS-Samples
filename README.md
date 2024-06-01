@@ -8,7 +8,7 @@ In these examples, a NUCLEO board from ST is used. The MCU on the board is STM32
 To run the examples, you can use STM32CubeIDE.
 
 To use the samples, simply clone the repository using git:
-git clone https://github.com/hosseinb1994/FreeRTOS-Samples.git
+* git clone https://github.com/hosseinb1994/FreeRTOS-Samples.git
 
 ## For using each sample follow below steps:
 * Step1: Open project using STM32CubeIDE.
