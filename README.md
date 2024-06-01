@@ -18,6 +18,7 @@ To use the samples, simply clone the repository using git:
 * Step5: Monitor Tasks utilizing Debug feature.
 -----------------------------------------------------
 ## Example lists:
-*    1- Creating Task
+*    1- Creating_Task
+*    2- RTOS_UART
 
 
