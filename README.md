@@ -20,5 +20,6 @@ To use the samples, simply clone the repository using git:
 ## Example lists:
 *    1- Creating_Task
 *    2- RTOS_UART
+*    3- RTOS_GPIOs
 
 
