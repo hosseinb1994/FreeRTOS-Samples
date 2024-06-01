@@ -1,11 +1,15 @@
 # FreeRTOS-Samples
-In this repo there are simple samples about FreeRTOS.
------------------------------------------------------
-Gerneral info:
-In this examples a NUCLEO board from ST is used. MCU on the board is STM32F401.
-For running the example use can use STM32CubeIDE.
-For using the samples, simply clone them using git.
+
+In this repo, there are simple samples about FreeRTOS.
+
+## General Info
+
+In these examples, a NUCLEO board from ST is used. The MCU on the board is STM32F401.
+To run the examples, you can use STM32CubeIDE.
+
+To use the samples, simply clone the repository using git:
 git clone https://github.com/hosseinb1994/FreeRTOS-Samples.git
+
 For using each sample follow below steps:
 Step1: Open project using STM32CubeIDE.
 Step2: Build the sample.
