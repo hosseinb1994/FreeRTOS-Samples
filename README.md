@@ -21,5 +21,14 @@ To use the samples, simply clone the repository using git:
 *    1- Creating_Task
 *    2- RTOS_UART
 *    3- RTOS_GPIOs
-
-
+*    4- Task_BlockingTask
+*    5- Task_ChangingOwnPriority
+*    6- Task_ExecutingTaskPeriodically
+*    7- Task_GettingTaskPriority
+*    8- Task_IdleTask
+*    9- Task_KillingTask
+*   10- Task_Priority
+*   11- Task_ResumingTask
+*   12- Task_SuspendTask
+*   13- Task_SyncingQueues
+*   14- Task_WorkingWithQueues
