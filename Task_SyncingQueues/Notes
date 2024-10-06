@@ -1,0 +1,16 @@
+#include "queue.h" should be added to freertos.h 
+#to access to queue.
+------------------------------------
+#BaseType_t qStatus; BaseType give us 
+#a status of the queue.
+------------------------------------
+#pdPASS is like true in FreeRTOS.
+------------------------------------
+#This is standard way for defining time or delay
+#in FreeRTOS:
+#const TickType_t wait_time = pdMS_TO_TICKS(100);
+------------------------------------
+#Data type conversion in Queue:
+#use itoa : itoa(value_received, value_str, 10);
+#sprintf & snprintf do not work properly.
+------------------------------------
